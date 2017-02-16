@@ -1,0 +1,2 @@
+一个Builder 类会一步一步构造对象 
+一个Meal类， 即套餐类， 有arrayList子元素为ITEM的接口组成。  BURGER, COLDDRINK实现ITME类， 有个PACKING接口， BURGER,PACKING使用PACKING接口
